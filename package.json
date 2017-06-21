@@ -1,0 +1,25 @@
+{
+  "name": "smbc",
+  "version": "1.0.2",
+  "description": "smbclient wrapper with promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phoenix Song",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azusa0127/smbc.git"
+  },
+  "keywords": [
+    "smbclient",
+    "samba",
+    "share",
+    "smb"
+  ],
+  "bugs": {
+    "url": "https://github.com/azusa0127/smbc/issues"
+  },
+  "homepage": "https://github.com/azusa0127/smbc#readme"
+}
